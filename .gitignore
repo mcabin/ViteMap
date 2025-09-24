@@ -1,0 +1,9 @@
+$git status
+
+BackEnd/node_modules/*
+BackEnd/.env
+BackEnd/package-lock.json
+
+MapVisualizer/node_modules/*
+MapVisualizer/.env
+MapVisualizer/package-lock.json
